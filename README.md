@@ -11,7 +11,7 @@
 
 Cybersecurity enthusiast focused on **Offensive Security** and **Windows Internals**. I enjoy understanding how systems work under the hood — from web application vulnerabilities to the internal structure of Windows executables.
 
-I practice regularly on **Hack The Box** and **TryHackMe**, with focus on Web Pentesting, Active Directory, and API Security.
+I practice regularly on **Hack The Box**, with focus on Web Pentesting, Active Directory, and API Security.
 
 Currently building personal projects in C++ to deepen my understanding of low-level Windows internals and malware development concepts.
 
