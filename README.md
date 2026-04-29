@@ -1,6 +1,9 @@
-#                                                  Hi, I'm ken 🕷️
+# Hi, I'm ken 🕷️
 
 **Offensive Security | Windows Internals | C++ | Web Pentest**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]()
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/228338)
 
 ---
 
@@ -8,7 +11,7 @@
 
 Cybersecurity enthusiast focused on **Offensive Security** and **Windows Internals**. I enjoy understanding how systems work under the hood — from web application vulnerabilities to the internal structure of Windows executables.
 
-I practice regularly on **Hack The Box**, with focus on Web Pentesting, Active Directory, and API Security.
+I practice regularly on **Hack The Box** and **TryHackMe**, with focus on Web Pentesting, Active Directory, and API Security.
 
 Currently building personal projects in C++ to deepen my understanding of low-level Windows internals and malware development concepts.
 
@@ -26,10 +29,24 @@ Currently building personal projects in C++ to deepen my understanding of low-le
 `Linux/Windows Privilege Escalation` `Pivoting` `Tunneling` `Port Forwarding`
 
 **Tools**
-`Burp Suite` `Metasploit` `sqlmap` `ffuf` `Hydra` `CrackMapExec` `Impacket` `Mimikatz` `Ligolo-ng` `Nmap`
 
-**Development**
-`C++` `Python` `PHP` `JavaScript` `HTML/CSS` `MySQL` `PostgreSQL` `Oracle` `AWS`
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat&logo=nmap&logoColor=white)
+`sqlmap` `ffuf` `Hydra` `CrackMapExec` `Impacket` `Mimikatz` `Ligolo-ng` `BloodHound`
+
+**Languages & Dev**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
 ---
 
@@ -37,12 +54,12 @@ Currently building personal projects in C++ to deepen my understanding of low-le
 
 | Project | Description | Lang |
 |---|---|---|
-| [windows-pe-parser](https://github.com/saitoken241/windows-pe-parser) | Parses DOS/NT headers, sections, imports and exports from Windows DLLs — no external libraries | C++ |
-| [windows-dll-injector](https://github.com/saitoken241/windows-dll-injector) | DLL injection research tool built from scratch | C++ |
-| [DESTROYER](https://github.com/saitoken241/DESTROYER) | Fast subdomain and directory enumeration tool inspired by ffuf | Python |
-| [REPAIRFAST](https://github.com/saitoken241/REPAIRFAST) | Full-stack web application (frontend + backend) | HTML/JS |
-| [heyprofessor](https://github.com/saitoken241/heyprofessor) | Web project built in PHP | PHP |
-| [Mini-ia](https://github.com/saitoken241/Mini-ia) | AI-related Python project | Python |
+| [windows-pe-parser](https://github.com/saitoken241/windows-pe-parser) | Parses DOS/NT headers, sections, imports and exports from Windows DLLs — no external libraries | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
+| [windows-dll-injector](https://github.com/saitoken241/windows-dll-injector) | DLL injection research tool built from scratch | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
+| [DESTROYER](https://github.com/saitoken241/DESTROYER) | Fast subdomain and directory enumeration tool inspired by ffuf | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [REPAIRFAST](https://github.com/saitoken241/REPAIRFAST) | Full-stack web application (frontend + backend) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) |
+| [heyprofessor](https://github.com/saitoken241/heyprofessor) | Web project built in PHP | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
+| [Mini-ia](https://github.com/saitoken241/Mini-ia) | AI-related Python project | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 
 > Also working on **private malware research projects** (ransomware simulation, process injection) for learning purposes.
 
