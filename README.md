@@ -56,7 +56,7 @@ Currently building personal projects in C++ to deepen my understanding of low-le
 
 | Project | Description | Lang |
 |---|---|---|
-| [windows-pe-parser](https://github.com/saitoken241/windows-pe-parser) | Parses DOS/NT headers, sections, imports and exports from Windows DLLs — no external libraries | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
+| [windows-pe-loader](https://github.com/saitoken241/windows-pe-parser) | Parses DOS/NT headers, sections, imports and exports from Windows DLLs — no external libraries | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
 | [windows-dll-injector](https://github.com/saitoken241/windows-dll-injector) | DLL injection research tool built from scratch | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
 | [DESTROYER](https://github.com/saitoken241/DESTROYER) | Fast subdomain and directory enumeration tool inspired by ffuf | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 | [REPAIRFAST](https://github.com/saitoken241/REPAIRFAST) | Full-stack web application (frontend + backend) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) |
