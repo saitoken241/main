@@ -1,4 +1,4 @@
-# Hi, I'm ken 🕷️
+# Hi, I'm ken 
 
 **Offensive Security | Windows Internals | C++ | Web Pentest**
 
@@ -9,7 +9,7 @@
 
 ### About me
 
-Cybersecurity enthusiast focused on **Offensive Security** and **Windows Internals**. I enjoy understanding how systems work under the hood — from web application vulnerabilities to the internal structure of Windows executables.
+Cybersecurity enthusiast focused on **Offensive Security** and **Windows Internals**. I enjoy understanding how systems work under the hood, from web application vulnerabilities to the internal structure of Windows executables.
 
 I practice regularly on **Hack The Box**, with focus on Web Pentesting, Active Directory, and API Security.
 
