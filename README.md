@@ -1,3 +1,5 @@
+![os.gif](os.gif)
+
 # Hi, I'm ken 
 
 **Offensive Security | Windows Internals | C++ | Web Pentest**
