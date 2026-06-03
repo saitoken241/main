@@ -5,7 +5,7 @@
 
 # Hi, I'm ken 
 
-**Offensive Security | Windows Internals | C++ | Web Pentest**
+**Offensive Security | Windows Internals | C++ | Pentest | PWN** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]()
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/228338)
