@@ -2,6 +2,7 @@
 
 
 
+
 # Hi, I'm ken 
 
 **Offensive Security | Windows Internals | C++ | Web Pentest**
@@ -86,4 +87,9 @@ Currently building skills towards my first role in **Pentesting**, **Red Team**,
 
 ### HACKTHEBOX
 
-![htb](htb)
+![htb2](htb2)
+
+### TEAM
+Member of HackersOnSteroids, a top ranked Brazilian CTF team on Hack The Box.
+
+![hos](hos)
